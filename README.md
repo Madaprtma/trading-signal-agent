@@ -1,4 +1,4 @@
-# 🤖 Trading Signal Agent
+# Trading Signal Agent
 ### AI-powered trading signals with Arc Network USDC nanopayments
 
 > Built for **Lepton Agents Hackathon** — Canteen x Circle x Arc Network
