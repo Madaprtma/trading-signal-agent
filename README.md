@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 What It Does
+## What It Does
 
 Trading Signal Agent is an autonomous AI agent that:
 
@@ -17,7 +17,7 @@ This demonstrates Arc's core value proposition: **sub-cent stablecoin payments t
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────┐     POST /signal      ┌──────────────────┐     Arc Testnet
@@ -38,7 +38,7 @@ This demonstrates Arc's core value proposition: **sub-cent stablecoin payments t
 
 ---
 
-## 📊 Signal Scoring System (8 Indicators)
+##  Signal Scoring System (8 Indicators)
 
 | # | Indicator | Weight | Signal |
 |---|-----------|--------|--------|
@@ -55,15 +55,15 @@ This demonstrates Arc's core value proposition: **sub-cent stablecoin payments t
 
 ---
 
-## 💡 Why Arc Network?
+##  Why Arc Network?
 
 Traditional payment rails can't support agent-to-agent micropayments:
 
 | Chain | Gas Cost | Viable for $0.01? |
 |-------|----------|-------------------|
-| Ethereum | ~$2-20 | ❌ No |
-| Polygon | ~$0.01-0.05 | ⚠️ Borderline |
-| **Arc Network** | **~$0.0001 USDC** | **✅ Yes** |
+| Ethereum | ~$2-20 |  No |
+| Polygon | ~$0.01-0.05 |  Borderline |
+| **Arc Network** | **~$0.0001 USDC** | ** Yes** |
 
 Arc's stablecoin-native design (USDC as gas token) makes nanopayments economically viable — enabling entirely new agent economy models where:
 - Agents **earn** for providing value (signals, data, computation)
@@ -72,7 +72,7 @@ Arc's stablecoin-native design (USDC as gas token) makes nanopayments economical
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -85,7 +85,7 @@ Arc's stablecoin-native design (USDC as gas token) makes nanopayments economical
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js v18+
@@ -157,7 +157,7 @@ curl -X POST http://localhost:3000/subscribe \
 
 ---
 
-## 🔌 API Reference
+##  API Reference
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -170,7 +170,7 @@ curl -X POST http://localhost:3000/subscribe \
 
 ---
 
-## 🔍 Live Demo
+##  Live Demo
 
 **Arc Testnet Transactions:**
 - Agent Wallet: `0x018fBE6bB41b6bA47AfBC499b60375117A9373ea`
@@ -179,7 +179,7 @@ curl -X POST http://localhost:3000/subscribe \
 
 ---
 
-## 🌐 Expanding the Agent Economy
+##  Expanding the Agent Economy
 
 This project is a foundation. Future extensions:
 
@@ -191,7 +191,7 @@ This project is a foundation. Future extensions:
 
 ---
 
-## 👤 Builder
+##  Builder
 
 **Teerast (Mada Pratama)**
 - GitHub: [@Madaprtma](https://github.com/Madaprtma)
@@ -203,10 +203,10 @@ Exploring how Arc's stablecoin-native architecture can power the next generation
 
 ---
 
-## 📄 License
+##  License
 
 MIT — feel free to fork and build on top of this.
 
 ---
 
-*Built with ❤️ on Arc Network Testnet | Lepton Agents Hackathon 2026*
+*Built with Love on Arc Network Testnet | Lepton Agents Hackathon 2026*
